@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/aleksandr-hilko/translator-chrome-extension#readme",
   "devDependencies": {
+    "@types/chrome": "^0.0.308",
     "typescript": "^5.8.2",
     "vite": "^6.2.1"
   }
