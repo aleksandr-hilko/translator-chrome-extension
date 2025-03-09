@@ -1,0 +1,25 @@
+{
+  "name": "translator-chrome-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandr-hilko/translator-chrome-extension.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandr-hilko/translator-chrome-extension/issues"
+  },
+  "homepage": "https://github.com/aleksandr-hilko/translator-chrome-extension#readme",
+  "devDependencies": {
+    "typescript": "^5.8.2",
+    "vite": "^6.2.1"
+  }
+}
